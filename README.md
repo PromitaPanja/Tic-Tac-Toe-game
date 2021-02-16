@@ -1,2 +1,2 @@
-# Tic-Tac-Toe-game-
+# Tic-Tac-Toe-game
 This is a game project made using python.
